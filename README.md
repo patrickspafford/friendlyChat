@@ -1,16 +1,12 @@
-# friendly_chat
+# Friendly Chat
 
-A new Flutter application.
+A Flutter cross-platform application from a Google Codelab. The user interface makes use of Material design.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+- The chat app involves a single user.
+- The theme and icons change based on whether the app is run on Android or iOS
+- Animation when a message is sent
+- The user cannot send a message unless they have typed something.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
